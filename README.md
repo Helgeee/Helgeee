@@ -1,6 +1,7 @@
 
-![Header](https://github.com/Helgeee/Helgeee/blob/main/assets/KF.gif)
-
+<p align="center">
+  <img />![Header](https://github.com/Helgeee/Helgeee/blob/main/assets/KF.gif)
+</p>
 ## Hello! I`m a student and beginner front-end developer.
 
 ### Languages and Tools:
