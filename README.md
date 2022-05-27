@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img />![Header](https://github.com/Helgeee/Helgeee/blob/main/assets/KF.gif)
+<img src="https://github.com/Helgeee/Helgeee/blob/main/assets/KF.gif" alt="animated" />
 </p>
 ## Hello! I`m a student and beginner front-end developer.
 
