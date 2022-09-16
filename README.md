@@ -11,7 +11,6 @@
 ### Frameworks:
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logocolor=E9D54D)
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logocolor=E9D54D)
 
 <!-- ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-090909?style=for-the-badge&logo=Spring_Framework&logocolor=E9D54D) -->
 
