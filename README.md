@@ -1,6 +1,6 @@
 
 
-### Hello! I`m Junior Front-end Developer.
+### Hello! I`m Front-end Developer.
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logocolor=4974a5)
