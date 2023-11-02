@@ -1,6 +1,6 @@
 
 
-### Hello! I`m Front-end Developer.
+<!-- ### Hello! I`m Front-end Developer.  -->
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logocolor=4974a5)
@@ -26,9 +26,9 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://vk.com/o_zotov)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=d4442)](olegvotozz@gmail.com)
+<!--[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=d4442)](olegvotozz@gmail.com)
 
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logocolor=E9D54D)](https://t.me/Helgee)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logocolor=E9D54D)](https://t.me/Helgee)  -->
 
 ### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helgeee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
