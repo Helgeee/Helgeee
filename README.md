@@ -24,7 +24,7 @@
 ### Contact me:
 <!-- ![MySite](https://img.shields.io/badge/-MySite-090909?style=for-the-badge&logo=MySite&logocolor=00538c) -->
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://vk.com/o_zotov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://t.me/helgee)
 
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=d4442)](olegvotozz@gmail.com)
 
