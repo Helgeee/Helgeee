@@ -27,10 +27,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://t.me/helgee)
 
-<!--[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=d4442)](olegvotozz@gmail.com)
-
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logocolor=E9D54D)](https://t.me/Helgee)  -->
-
 ### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helgeee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
