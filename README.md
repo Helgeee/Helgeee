@@ -6,6 +6,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logocolor=4974a5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logocolor=097CDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logocolor=E9D54D)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logocolor=E9D54D)
 
 <!-- ### Frameworks:
