@@ -50,7 +50,7 @@ let helgeee = Developer(
 
 ### library:
 
-▪️Sass▪️Tailwind▪️ Redux▪️jQuery▪️TypeORM ▪️NestJS▪️React-hook-form▪️React Testing library▪️
+▪️Sass▪️Tailwind▪️ Redux▪️jQuery▪️TypeORM▪️React-hook-form▪️React Testing library▪️
 
 ### Tools:
 
