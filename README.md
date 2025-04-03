@@ -25,7 +25,7 @@ let helgeee = Developer(
 
 - <a href="https://github.com/Helgeee/JourneyJournal_v2_Graduation_Project" style="color:DarkMagenta;" >**JourneyJournal_v2 (2024)**</a> - приложение, разработанное как выпускная квалификационная работа. Это улучшенная версия JourneyJournal_v1. Является прототипом для основной версии приложения, которое в настоящее время находится в разработке. Выход планируется в 2026 году.
 
-### Остальные проекты:
+### Other projects:
 
 - <a href="https://github.com/Helgeee/Fullstack__project" style="color: SteelBlue;"> **Приложение для учёта и управления бюджетом (2025)** </a>
 - <a href="https://github.com/Helgeee/Crypto_app_react" style="color: SteelBlue;"> **Приложение криптокошелёк (2024)**</a>
