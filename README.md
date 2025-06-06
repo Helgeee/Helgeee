@@ -27,6 +27,7 @@ let helgeee = Developer(
 
 ### Other projects:
 
+- <a href="https://github.com/Helgeee/journalblog_react_fastapi" style="color: SteelBlue;"> **Платформа для размещения статей и публикаций (React + FastAPI) (2025)** </a>
 - <a href="https://github.com/Helgeee/Fullstack__project" style="color: SteelBlue;"> **Приложение для учёта и управления бюджетом (2025)** </a>
 - <a href="https://github.com/Helgeee/Crypto_app_react" style="color: SteelBlue;"> **Приложение криптокошелёк (2024)**</a>
 - <a href="https://github.com/Helgeee/model__school" style="color: SteelBlue;"> **Лендинг для модельной школы (2024)**</a>
