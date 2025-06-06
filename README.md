@@ -15,7 +15,7 @@ let helgeee = Developer(
 ### Contact me:
 
 [![My website](https://img.shields.io/badge/-MySite-090909?style=for-the-badge&logo=MySite&logocolor=00538c)](https://www.oleg-zotov.ru/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://vk.com/o_zotov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=E9D54D)](https://t.me/helgee/)
 
 <h2>Projects</h2>
 
